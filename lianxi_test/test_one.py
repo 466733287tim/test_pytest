@@ -3,4 +3,4 @@ def func(x):
 
 
 def test_wore():
-    assert func(3) == 5
+    assert func(3) == 4
