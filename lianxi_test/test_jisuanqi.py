@@ -15,6 +15,7 @@ class TestCalc:
         subs = Calculator()
         result = subs.sub(3, 1)
         assert result == 2
+
     def test_chengfa(self):
         chenfas = Calculator()
         result = chenfas.chengfa(2, 5)
